@@ -20,6 +20,9 @@ dependencies:
   '@tanstack/react-table':
     specifier: ^8.16.0
     version: 8.16.0(react-dom@18.3.1)(react@18.3.1)
+  '@types/leaflet':
+    specifier: ^1.9.12
+    version: 1.9.12
   '@types/mapbox-gl':
     specifier: ^3.1.0
     version: 3.1.0
@@ -68,6 +71,9 @@ dependencies:
   react-leaflet:
     specifier: ^4.2.1
     version: 4.2.1(leaflet@1.9.4)(react-dom@18.3.1)(react@18.3.1)
+  react-leaflet-kml:
+    specifier: ^2.1.2
+    version: 2.1.2(leaflet@1.9.4)(react-dom@18.3.1)(react-leaflet@4.2.1)(react@18.3.1)
   tailwind-merge:
     specifier: ^2.3.0
     version: 2.3.0
@@ -1370,6 +1376,12 @@ packages:
   /@types/json5@0.0.29:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
+
+  /@types/leaflet@1.9.12:
+    resolution: {integrity: sha512-BK7XS+NyRI291HIo0HCfE18Lp8oA30H1gpi1tf0mF3TgiCEzanQjOqNZ4x126SXzzi2oNSZhZ5axJp1k0iM6jg==}
+    dependencies:
+      '@types/geojson': 7946.0.14
+    dev: false
 
   /@types/mapbox-gl@3.1.0:
     resolution: {integrity: sha512-hI6cQDjw1bkJw7MC/eHMqq5TWUamLwsujnUUeiIX2KDRjxRNSYMjnHz07+LATz9I9XIsKumOtUz4gRYnZOJ/FA==}
@@ -3455,6 +3467,10 @@ packages:
     resolution: {integrity: sha512-IrKagWxkTwzxUkFIumy/Zmo3ksjuAu3zEadtOuJcKzuXaD76Gwvg2Z1mLyx7y52ykOzM8rAH5ChBs4DnfdGa6Q==}
     dev: false
 
+  /leaflet-kml@1.0.1:
+    resolution: {integrity: sha512-9eL2gb+3aGpzM1YMqX864JYdKmd6Rzdg1KX/lu0dVfZOJtqA44YFh2VS6BFcY6LDnBdnKX0U+88DtPM5s65u5Q==}
+    dev: false
+
   /leaflet@1.9.4:
     resolution: {integrity: sha512-nxS1ynzJOmOlHp+iL3FyWqK89GtNL8U8rvlMOsQdTTssxZwCXh8N2NB3GDQOL+YR3XnWyZAxwQixURb+FA74PA==}
     dev: false
@@ -4736,6 +4752,21 @@ packages:
 
   /react-is@18.3.1:
     resolution: {integrity: sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==}
+    dev: false
+
+  /react-leaflet-kml@2.1.2(leaflet@1.9.4)(react-dom@18.3.1)(react-leaflet@4.2.1)(react@18.3.1):
+    resolution: {integrity: sha512-E0F+W1kLbZ3W4jjgM3tW6BbenyqGcE/Z2ITUCSicGb+mB8NHDVYTKfbENdKyQWmDGPmtfiRm1zM4FIbWUfpIaw==}
+    peerDependencies:
+      leaflet: '>=1.5.0'
+      react: '>=16.8.0'
+      react-dom: '>=16.8.0'
+      react-leaflet: '>=3.0.0'
+    dependencies:
+      leaflet: 1.9.4
+      leaflet-kml: 1.0.1
+      react: 18.3.1
+      react-dom: 18.3.1(react@18.3.1)
+      react-leaflet: 4.2.1(leaflet@1.9.4)(react-dom@18.3.1)(react@18.3.1)
     dev: false
 
   /react-leaflet@4.2.1(leaflet@1.9.4)(react-dom@18.3.1)(react@18.3.1):
