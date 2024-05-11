@@ -1,4 +1,4 @@
-'use client';
+  'use client';
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
@@ -56,8 +56,8 @@ const sidebarMenu = [
   },
   {
     icon: <TablesIcon />,
-    label: 'Tables',
-    href: '/tables',
+    label: 'Trade',
+    href: '/trade',
   }
 ];
 

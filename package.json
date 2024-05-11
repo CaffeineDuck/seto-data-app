@@ -17,6 +17,7 @@
     "@types/mapbox-gl": "^3.1.0",
     "@types/react-leaflet": "^3.0.0",
     "antd": "^5.17.0",
+    "chart.js": "^4.4.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
