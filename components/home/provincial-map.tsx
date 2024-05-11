@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import L, { GeoJSON as GeoJSONType } from 'leaflet';
+import L, { GeoJSON as GeoJSONType, LatLngExpression } from 'leaflet';
 import { GeoJSON, MapContainer, TileLayer } from 'react-leaflet';
 
 import 'leaflet/dist/leaflet.css';
@@ -85,9 +85,11 @@ export default function NepalMap() {
     }
   };
 
+  const center: LatLngExpression | undefined = [28.3949, 84.124];
+
   return (
     <MapContainer
-      center={[28.3949, 84.124]}
+      center={center}
       preferCanvas={true}
       zoom={7}
       scrollWheelZoom={true}

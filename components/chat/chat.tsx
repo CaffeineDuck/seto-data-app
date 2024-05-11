@@ -13,8 +13,7 @@ export default function ChatComponent() {
       api: 'api/chat',
     });
   return (
-    <div className="px-10 pt-10">
-      <TopNav />
+    <div className="">
       <div className="relative h-[88vh] w-full overflow-scroll">
         <div className="py-10 lg:py-14">
           <div className="mx-auto flex max-w-4xl flex-col items-center gap-4 px-4 text-center sm:px-6 lg:px-8">
@@ -31,15 +30,15 @@ export default function ChatComponent() {
 
               <div className="space-y-3">
                 Introducing the Nepal Statistics Exploration Bot! This AI
-                assistant offers detailed insights into Nepal&apos;s diverse sectors,
-                including education, healthcare, and more. From analyzing
-                university demographics to examining TB control efforts, this
-                bot provides comprehensive data-driven analyses to aid in
-                decision-making and policy formulation. Whether you&apos;re
-                interested in gender disparities in education or vaccination
-                coverage across provinces, this bot is your go-to source for
-                valuable statistics and insights on Nepal&apos;s socio-economic
-                landscape.
+                assistant offers detailed insights into Nepal&apos;s diverse
+                sectors, including education, healthcare, and more. From
+                analyzing university demographics to examining TB control
+                efforts, this bot provides comprehensive data-driven analyses to
+                aid in decision-making and policy formulation. Whether
+                you&apos;re interested in gender disparities in education or
+                vaccination coverage across provinces, this bot is your go-to
+                source for valuable statistics and insights on Nepal&apos;s
+                socio-economic landscape.
               </div>
             </li>
             {messages.map((message) => (

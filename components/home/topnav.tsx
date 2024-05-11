@@ -1,11 +1,19 @@
+'use client';
+
+import { usePathname } from 'next/navigation';
+
 export default function TopNav() {
+  const pathname = usePathname();
+
+  const currentPage = pathname.split('/').pop();
+
   return (
     <>
-      <div className="text-xs mb-5 font-medium text-[#707EAE]">
-        Pages / Dashboard
+      <div className="mb-5 text-xs capitalize font-medium text-[#707EAE]">
+        Pages / {currentPage ? currentPage : 'Dashboard'}
       </div>
       <div className="flex w-full justify-between">
-        <span className="text-3xl font-bold text-black">Main Dashboard</span>
+        <span className="text-3xl capitalize font-bold text-black">{currentPage}</span>
         <div className="flex items-center gap-4 rounded-full bg-white p-3">
           <div className="flex items-center gap-2 rounded-full bg-[#F4F7FE] px-6 py-3">
             <svg

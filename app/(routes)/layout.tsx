@@ -1,9 +1,10 @@
 import type { Metadata } from 'next';
 import { DM_Sans } from 'next/font/google';
 
-import './globals.css';
+import '../globals.css';
 
 import Sidebar from '@/components/common/sidebar';
+import TopNav from '@/components/home/topnav';
 
 const dm_sans = DM_Sans({ subsets: ['latin'] });
 
@@ -22,8 +23,9 @@ export default function RootLayout({
       <body className={dm_sans.className}>
         <div className="flex">
           <Sidebar />
-          <main className="max-h-[100vh] w-full overflow-scroll bg-[#F4F7FE]">
-            {children}
+          <main className="h-screen w-full overflow-scroll bg-[#F4F7FE] p-10">
+            <TopNav />
+            <div className='h-full overflow-scroll'>{children}</div>
           </main>
         </div>
       </body>

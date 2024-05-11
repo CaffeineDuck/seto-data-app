@@ -13,7 +13,7 @@ import {
 } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
 
-import { universityData2080 } from '../../data/education';
+import { universityData2080 } from '@/data/education';
 
 ChartJS.register(
   CategoryScale,
@@ -71,7 +71,7 @@ export default function EducationPage() {
   };
 
   return (
-    <div className="flex w-full flex-col items-end justify-end">
+    <div className="flex w-full flex-col items-end justify-end mt-10">
       <DatePicker
         onChange={handleYearChange}
         picker="year"

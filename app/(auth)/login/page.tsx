@@ -3,7 +3,7 @@ import HorizontalLogo from '@/components/icons/logos/horizontalLogo';
 export default function LoginPage() {
   return (
     <div>
-      <div className="relative flex min-h-screen flex-col bg-background">
+      <div className="relative flex max-h-screen flex-col bg-background overflow-hidden">
         <div className="theme-zinc h-full w-full p-4 lg:p-0">
           <div className="h-screen w-full lg:grid lg:grid-cols-2">
             <div className="flex items-center justify-center py-12">

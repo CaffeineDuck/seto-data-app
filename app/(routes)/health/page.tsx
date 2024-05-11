@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
+import { healthData, HealthData } from '@/data/diahorreah';
 import { ArrowUpOutlined } from '@ant-design/icons';
 import {
   Button,
@@ -15,9 +16,6 @@ import {
 } from 'antd';
 import type { DatePickerProps } from 'antd';
 import dayjs from 'dayjs';
-import moment from 'moment';
-
-import { healthData, HealthData } from '../../data/diahorreah'; // Ensure the correct path
 
 const items = [
   { key: 'Diahorreah', label: 'Diahorreah' },
