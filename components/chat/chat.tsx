@@ -5,7 +5,7 @@ export default function ChatComponent() {
   return (
     <div className="px-10 pt-10">
       <TopNav />
-      <div className="relative h-[90vh] w-full overflow-scroll">
+      <div className="relative h-[88vh] w-full overflow-scroll">
         <div className="py-10 lg:py-14">
           <div className="mx-auto flex max-w-4xl flex-col items-center gap-4 px-4 text-center sm:px-6 lg:px-8">
             <HorizontalLogo />

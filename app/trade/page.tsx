@@ -3,11 +3,8 @@ import ImportsComponent from '@/components/trade/imports';
 
 export default function TradePage() {
   return (
-    <div className="flex">
-      <Sidebar />
-      <main className="min-h-[100vh] w-full">
-        <ImportsComponent />
-      </main>
-    </div>
+    <main className="min-h-[100vh] w-full px-10">
+      <ImportsComponent />
+    </main>
   );
 }

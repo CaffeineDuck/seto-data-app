@@ -1,14 +1,15 @@
-  'use client';
+'use client';
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
 
+import AiChatIcon from '../icons/aiChatIcon';
 import HomeIcon from '../icons/homeIcon';
 import HorizontalLogo from '../icons/logos/horizontalLogo';
 import TablesIcon from '../icons/tablesIcon';
 import UserIcon from '../icons/userIcon';
-import AiChatIcon from '../icons/aiChatIcon';
+import FinanceIcon from '../icons/financeIcon';
 
 export default function Sidebar() {
   const pathname = usePathname();
@@ -18,10 +19,10 @@ export default function Sidebar() {
   return (
     <div>
       <div className="flex flex-col gap-20 p-10">
-        <div>
+        <Link href={'/'}>
           <HorizontalLogo />
           <hr className="mt-5" />
-        </div>
+        </Link>
         <div className="flex flex-col gap-5">
           {sidebarMenu.map((item) => (
             <SidebarItem
@@ -47,18 +48,18 @@ const sidebarMenu = [
   {
     icon: <AiChatIcon />,
     label: 'AI Chat',
-    href: '/chat'
+    href: '/chat',
   },
   {
-    icon: <UserIcon />,
-    label: 'Profile',
-    href: '/profile',
+    icon: <FinanceIcon />,
+    label: 'NRB',
+    href: '/nrb',
   },
   {
     icon: <TablesIcon />,
     label: 'Trade',
     href: '/trade',
-  }
+  },
 ];
 
 type SidebarItemProps = {
