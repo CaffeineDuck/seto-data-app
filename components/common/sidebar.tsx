@@ -4,16 +4,16 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
 
-
-
 import AiChatIcon from '../icons/aiChatIcon';
+import CensusIcon from '../icons/censusIcon';
+import DashboardIcon from '../icons/dashboardIcon';
 import FinanceIcon from '../icons/financeIcon';
 import HealthIcon from '../icons/healthIcon';
 import HomeIcon from '../icons/homeIcon';
 import HorizontalLogo from '../icons/logos/horizontalLogo';
+import PollutionIcon from '../icons/pollutionIcon';
 import TablesIcon from '../icons/tablesIcon';
 import UserIcon from '../icons/userIcon';
-import PollutionIcon from '../icons/pollutionIcon';
 
 export default function Sidebar() {
   const pathname = usePathname();
@@ -46,8 +46,13 @@ export default function Sidebar() {
 const sidebarMenu = [
   {
     icon: <HomeIcon />,
-    label: 'Dashboard',
+    label: 'Home',
     href: '/',
+  },
+  {
+    icon: <DashboardIcon />,
+    label: 'Dashboard',
+    href: '/dashboard',
   },
   {
     icon: <AiChatIcon />,
@@ -73,6 +78,11 @@ const sidebarMenu = [
     icon: <PollutionIcon />,
     label: 'Pollution',
     href: '/pollution',
+  },
+  {
+    icon: <CensusIcon />,
+    label: 'Census',
+    href: '/census',
   },
 ];
 

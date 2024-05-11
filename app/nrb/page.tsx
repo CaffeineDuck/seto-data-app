@@ -1,5 +1,6 @@
+import AnalysisComponent from '@/components/common/analysis';
 import DataTable from '@/components/common/data-table';
-import { HeatMap } from '@/components/common/nested-heatmap';
+import TreemapComponent from '@/components/common/treemap';
 
 export default function NRBPage() {
   const data = [
@@ -203,14 +204,82 @@ export default function NRBPage() {
   ];
 
   return (
-    <div className="px-10 py-10">
-      <DataTable
-        alignText="right"
-        columns={columns as any}
-        data={data ?? []}
-        className="table-scrollbar -m-1.5 max-h-[450px] overflow-auto overflow-y-auto"
-      />
-      <HeatMap />
+    <div className="grid gap-10 px-10 py-10">
+      <div className="grid gap-5">
+        <span className="text-lg font-bold">Table view of some data</span>
+        <DataTable
+          alignText="right"
+          columns={columns as any}
+          data={data ?? []}
+          className="table-scrollbar -m-1.5 max-h-[450px] overflow-auto overflow-y-auto"
+        />
+        <AnalysisComponent text="The table shows some data." />
+      </div>
+
+      <div>
+        <span className="text-lg font-bold">Treemap view of some data</span>
+        <TreemapComponent
+          series={[
+            {
+              data: [
+                {
+                  x: 'INTC',
+                  y: 1.2,
+                },
+                {
+                  x: 'GS',
+                  y: 0.4,
+                },
+                {
+                  x: 'CVX',
+                  y: -1.4,
+                },
+                {
+                  x: 'GE',
+                  y: 2.7,
+                },
+                {
+                  x: 'CAT',
+                  y: -0.3,
+                },
+                {
+                  x: 'RTX',
+                  y: 5.1,
+                },
+                {
+                  x: 'CSCO',
+                  y: -2.3,
+                },
+                {
+                  x: 'JNJ',
+                  y: 2.1,
+                },
+                {
+                  x: 'PG',
+                  y: 0.3,
+                },
+                {
+                  x: 'TRV',
+                  y: 0.12,
+                },
+                {
+                  x: 'MMM',
+                  y: -2.31,
+                },
+                {
+                  x: 'NKE',
+                  y: 3.98,
+                },
+                {
+                  x: 'IYT',
+                  y: 1.67,
+                },
+              ],
+            },
+          ]}
+        />
+      </div>
+      <AnalysisComponent text="The table shows some data." />
     </div>
   );
 }

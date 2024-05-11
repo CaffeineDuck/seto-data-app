@@ -152,3 +152,4 @@ export const getDistricts = (province: string) => {
 
   return selectedProvince ? districts : [];
 };
+
