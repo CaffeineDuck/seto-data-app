@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
 
+
+
 import AiChatIcon from '../icons/aiChatIcon';
 import CensusIcon from '../icons/censusIcon';
 import DashboardIcon from '../icons/dashboardIcon';
@@ -14,6 +16,7 @@ import HorizontalLogo from '../icons/logos/horizontalLogo';
 import PollutionIcon from '../icons/pollutionIcon';
 import TablesIcon from '../icons/tablesIcon';
 import UserIcon from '../icons/userIcon';
+import EducationIcon from '../icons/educationIcon'
 
 export default function Sidebar() {
   const pathname = usePathname();
@@ -74,6 +77,11 @@ const sidebarMenu = [
     label: 'Health',
     href: '/health',
   },
+  {
+    icon: <EducationIcon/>,
+    label: 'Education',
+    href: '/education',
+  },  
   {
     icon: <PollutionIcon />,
     label: 'Pollution',
