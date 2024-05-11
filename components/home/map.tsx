@@ -29,6 +29,7 @@ export default function MyMap(props: any) {
   getLocation();
   return (
     <MapContainer
+    // @ts-ignore
       preferCanvas={true}
       center={[27.7179392, 85.3446311]}
       zoom={20}
@@ -36,6 +37,7 @@ export default function MyMap(props: any) {
       style={{ height: '500px', width: '100%' }}
     >
       <TileLayer
+          // @ts-ignore
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />

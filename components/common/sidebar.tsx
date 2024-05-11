@@ -8,6 +8,7 @@ import HomeIcon from '../icons/homeIcon';
 import HorizontalLogo from '../icons/logos/horizontalLogo';
 import TablesIcon from '../icons/tablesIcon';
 import UserIcon from '../icons/userIcon';
+import AiChatIcon from '../icons/aiChatIcon';
 
 export default function Sidebar() {
   const pathname = usePathname();
@@ -44,6 +45,11 @@ const sidebarMenu = [
     href: '/',
   },
   {
+    icon: <AiChatIcon />,
+    label: 'AI Chat',
+    href: '/chat'
+  },
+  {
     icon: <UserIcon />,
     label: 'Profile',
     href: '/profile',
@@ -52,7 +58,7 @@ const sidebarMenu = [
     icon: <TablesIcon />,
     label: 'Tables',
     href: '/tables',
-  },
+  }
 ];
 
 type SidebarItemProps = {
