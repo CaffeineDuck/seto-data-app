@@ -8,7 +8,7 @@ export default function HomeMainFilters() {
   const [selectedProvince, setSelectedProvince] = useState('');
 
   return (
-    <div className="grid grid-cols-4 gap-10 pt-10">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 pt-10">
       <div className="grid w-full gap-2 rounded-xl bg-white py-5 pl-5 pr-20">
         <span className="font-medium text-black">Select Category</span>
         <Select

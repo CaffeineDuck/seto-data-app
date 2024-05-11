@@ -1,9 +1,3 @@
-import HomeMainComponent from '@/components/home/main';
-import Onboarding from '@/components/home/onboarding';
-
 export default function Home() {
-  return (
-     <HomeMainComponent />
-    // <Onboarding />
-  );
+  return <div className="min-h-[100vh]"></div>;
 }
