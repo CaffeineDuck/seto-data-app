@@ -1,0 +1,3 @@
+[submodule "seto-data-backend"]
+	path = seto-data-backend
+	url = git@github.com:CaffeineDuck/seto-data-backend.git
