@@ -1,0 +1,368 @@
+[
+    {
+        "name": "Bhaisipati",
+        "latitude": 27.65311,
+        "longitude": 85.302252,
+        "elevation": 1347,
+        "unit": "°C",
+        "series_id": 535,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:35:00+00:00",
+            "value": 21.6
+        }
+    },
+    {
+        "name": "Dang",
+        "latitude": 27.9914,
+        "longitude": 82.5346,
+        "elevation": 684,
+        "unit": "°C",
+        "series_id": 726,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:36:00+00:00",
+            "value": 23.39
+        }
+    },
+    {
+        "name": "Dhankuta",
+        "latitude": 26.98066,
+        "longitude": 87.34392,
+        "elevation": 1200,
+        "unit": "°C",
+        "series_id": 1527,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:38:00+00:00",
+            "value": 21.6
+        }
+    },
+    {
+        "name": "Dhulikhel",
+        "latitude": 27.608483,
+        "longitude": 85.547803,
+        "elevation": 1598,
+        "unit": "°C",
+        "series_id": 1264,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "GBS, Pkr",
+        "latitude": 28.25838,
+        "longitude": 83.968964,
+        "elevation": 978,
+        "unit": "°C",
+        "series_id": 586,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:39:00+00:00",
+            "value": 20.5
+        }
+    },
+    {
+        "name": "Lumbini",
+        "latitude": 27.50359,
+        "longitude": 83.282186,
+        "elevation": 97,
+        "unit": "°C",
+        "series_id": 157,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Nepalgunj",
+        "latitude": 28.05275,
+        "longitude": 81.6222,
+        "elevation": 151,
+        "unit": "°C",
+        "series_id": 666,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:37:00+00:00",
+            "value": 26.2
+        }
+    },
+    {
+        "name": "PU Pkr",
+        "latitude": 28.143373,
+        "longitude": 84.085547,
+        "elevation": 664,
+        "unit": "°C",
+        "series_id": 563,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Ratnapark",
+        "latitude": 27.707014,
+        "longitude": 85.31541,
+        "elevation": 1317,
+        "unit": "°C",
+        "series_id": 25,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Shankapark",
+        "latitude": 27.732825,
+        "longitude": 85.342826,
+        "elevation": 1339,
+        "unit": "°C",
+        "series_id": 336,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:38:00+00:00",
+            "value": 22.29
+        }
+    },
+    {
+        "name": "Sauraha",
+        "latitude": 27.573483,
+        "longitude": 84.498578,
+        "elevation": 195,
+        "unit": "°C",
+        "series_id": 212,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Simara",
+        "latitude": 27.156708,
+        "longitude": 84.997761,
+        "elevation": 128,
+        "unit": "°C",
+        "series_id": 632,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:34:00+00:00",
+            "value": 29.2
+        }
+    },
+    {
+        "name": "DHM, Pkr",
+        "latitude": 28.205549,
+        "longitude": 83.97368,
+        "elevation": 823,
+        "unit": "°C",
+        "series_id": 609,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:42:00+00:00",
+            "value": 20.89
+        }
+    },
+    {
+        "name": "Damak",
+        "latitude": 26.669363,
+        "longitude": 87.703262,
+        "elevation": 136,
+        "unit": "°C",
+        "series_id": 1555,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Janakpur",
+        "latitude": 26.739805,
+        "longitude": 85.92854,
+        "elevation": 76,
+        "unit": "°C",
+        "series_id": 1630,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Dhangadhi",
+        "latitude": 28.704133,
+        "longitude": 80.5945,
+        "elevation": 178,
+        "unit": "°C",
+        "series_id": 1711,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Hetauda",
+        "latitude": 27.4226747,
+        "longitude": 85.0344161,
+        "elevation": 458,
+        "unit": "°C",
+        "series_id": 1658,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Bhimdatta (Mahendranagar)",
+        "latitude": 28.965051,
+        "longitude": 80.182925,
+        "elevation": 217,
+        "unit": "°C",
+        "series_id": 1739,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:35:00+00:00",
+            "value": 27.6
+        }
+    },
+    {
+        "name": "Biratnagar",
+        "latitude": 26.4450921,
+        "longitude": 87.2750912,
+        "elevation": 71,
+        "unit": "°C",
+        "series_id": 1606,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Jhumka",
+        "latitude": 26.664451,
+        "longitude": 87.195171,
+        "elevation": 100,
+        "unit": "°C",
+        "series_id": 697,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Surkhet",
+        "latitude": 28.602925,
+        "longitude": 81.621024,
+        "elevation": 729,
+        "unit": "°C",
+        "series_id": 1583,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:23:00+00:00",
+            "value": 21.1
+        }
+    },
+    {
+        "name": "Rara",
+        "latitude": 29.508301,
+        "longitude": 82.093788,
+        "elevation": 3121,
+        "unit": "°C",
+        "series_id": 1769,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:44:00+00:00",
+            "value": 8.19
+        }
+    },
+    {
+        "name": "Pulchowk",
+        "latitude": 27.682581,
+        "longitude": 85.318841,
+        "elevation": 1305,
+        "unit": "°C",
+        "series_id": 115,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "TU Kirtipur",
+        "latitude": 27.681719,
+        "longitude": 85.289313,
+        "elevation": 1314,
+        "unit": "°C",
+        "series_id": 490,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": null
+    },
+    {
+        "name": "Bhaktapur ",
+        "latitude": 27.673762,
+        "longitude": 85.417528,
+        "elevation": 1327,
+        "unit": "°C",
+        "series_id": 513,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:43:00+00:00",
+            "value": 21.79
+        }
+    },
+    {
+        "name": "Bharatpur",
+        "latitude": 27.672503,
+        "longitude": 84.438393,
+        "elevation": 213,
+        "unit": "°C",
+        "series_id": 1685,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T14:47:00+00:00",
+            "value": 29.6
+        }
+    },
+    {
+        "name": "Khumaltar",
+        "latitude": 27.64665,
+        "longitude": 85.3234,
+        "elevation": null,
+        "unit": "°C",
+        "series_id": 2451,
+        "parameter_name": "Air Temperature Inst",
+        "parameter_code": "T",
+        "series_name": "Air Temperature Inst",
+        "data": {
+            "datetime": "2024-05-11T03:17:00+00:00",
+            "value": 22.39
+        }
+    }
+]

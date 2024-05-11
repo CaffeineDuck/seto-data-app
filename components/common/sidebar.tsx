@@ -10,6 +10,7 @@ import HorizontalLogo from '../icons/logos/horizontalLogo';
 import TablesIcon from '../icons/tablesIcon';
 import UserIcon from '../icons/userIcon';
 import FinanceIcon from '../icons/financeIcon';
+import PollutionIcon from '../icons/pollutionIcon';
 
 export default function Sidebar() {
   const pathname = usePathname();
@@ -59,6 +60,11 @@ const sidebarMenu = [
     icon: <TablesIcon />,
     label: 'Trade',
     href: '/trade',
+  },
+  {
+    icon: <PollutionIcon />,
+    label: 'Pollution',
+    href: '/pollution',
   },
 ];
 
