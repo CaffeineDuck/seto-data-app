@@ -3,6 +3,8 @@
 import { useEffect, useRef } from 'react';
 import Chart from 'chart.js/auto';
 
+import AnalysisComponent from '../common/analysis';
+
 export default function ImportsComponent() {
   const canvas = useRef();
 
@@ -84,6 +86,7 @@ export default function ImportsComponent() {
             ref={canvas}
           ></canvas>
         </div>
+        <AnalysisComponent text="The chart shows the import quantities and values by product. We can see (Other) categories were imported the most from Bangladesh." />
       </div>
     </div>
   );
