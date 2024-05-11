@@ -1,0 +1,3242 @@
+[
+    {
+        "id": 16,
+        "identifier": "Bhaisipati, KTM",
+        "name": "Bhaisipati",
+        "folder_name": "AQMS",
+        "latitude": 27.65311,
+        "longitude": 85.302252,
+        "elevation": 1347,
+        "description": "AQMS at Bhaisipati, KTM",
+        "images": [
+            {
+                "id": 31,
+                "name": "88b5464e1e6aaa8c7b02375b7a3fb64d",
+                "description": "",
+                "size": 3350445,
+                "type": 0
+            },
+            {
+                "id": 32,
+                "name": "aa6c359576c1c489be0db6bb9800c07e",
+                "description": "",
+                "size": 2213948,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 12,
+                "name": "2017",
+                "description": "Stations installed in 2017"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 535,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 21.6
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 523,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 63.29,
+                    "aqi": 53.61769553619199
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 524,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 35.9
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 525,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 42.7,
+                    "aqi": 107.40201192874873
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 528,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 80.19
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 534,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 95.4
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 527,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 0
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 526,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 0
+                }
+            }
+        ],
+        "AQI": 107.40201192874873,
+        "AQIcolor": "#ff7e00",
+        "nepali_name": "भैसेपाटी"
+    },
+    {
+        "id": 19,
+        "identifier": "Dang",
+        "name": "Dang",
+        "folder_name": "AQMS",
+        "latitude": 27.9914,
+        "longitude": 82.5346,
+        "elevation": 684,
+        "description": "AQMS @ Dang",
+        "images": [
+            {
+                "id": 7,
+                "name": "8d6e502d38de048d5dadfc4f3272d5d5",
+                "description": "",
+                "size": 367904,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 13,
+                "name": "2018",
+                "description": "Stations installed in 2018"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 726,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:36:00+00:00",
+                    "value": 23.39
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 713,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 714,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 716,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 719,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:36:00+00:00",
+                    "value": 70.8
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 725,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 718,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:36:00+00:00",
+                    "value": 252.19
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 717,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:36:00+00:00",
+                    "value": 0.4
+                }
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "दाङ्ग"
+    },
+    {
+        "id": 57,
+        "identifier": "Dhankuta",
+        "name": "Dhankuta",
+        "folder_name": "AQMS",
+        "latitude": 26.98066,
+        "longitude": 87.34392,
+        "elevation": 1200,
+        "description": "Dhankuta",
+        "images": [
+            {
+                "id": 41,
+                "name": "a963af10bba309da03c8ef7d7cd671d2",
+                "description": "",
+                "size": 243911,
+                "type": 0
+            },
+            {
+                "id": 42,
+                "name": "2b0b05e952fd1479c454c392a45c0636",
+                "description": "",
+                "size": 246769,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 10,
+                "name": "2019",
+                "description": "Stations installed in 2019"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1527,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": 21.6
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1517,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": -9999,
+                    "aqi": "-"
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1518,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:33:00+00:00",
+                    "value": 21.89
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1519,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:33:00+00:00",
+                    "value": 27.6,
+                    "aqi": 69.46733762278895
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 1522,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": 85.9
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1526,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:33:00+00:00",
+                    "value": 49.59
+                }
+            },
+            {
+                "unit": "°C",
+                "series_id": 1521,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": 264.39
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1520,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": 0.89
+                }
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "धनकुटा"
+    },
+    {
+        "id": 4,
+        "identifier": "KU_DH",
+        "name": "Dhulikhel",
+        "folder_name": "AQMS",
+        "latitude": 27.608483,
+        "longitude": 85.547803,
+        "elevation": 1598,
+        "description": "AQMS at KU, Dhulikehl, Kavre",
+        "images": [
+            {
+                "id": 35,
+                "name": "a65daf0b19f0e729a1befbd355b48e85",
+                "description": "",
+                "size": 3095805,
+                "type": 0
+            },
+            {
+                "id": 36,
+                "name": "e3803188d9043dc942f2189d76b0400c",
+                "description": "",
+                "size": 3570946,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 3,
+                "name": "KTM",
+                "description": "All Stations inside Kathmandu City"
+            },
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1264,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1254,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1255,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1256,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 1259,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1263,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1258,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1257,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "धुलिखेल"
+    },
+    {
+        "id": 12,
+        "identifier": "GBS",
+        "name": "GBS, Pkr",
+        "folder_name": "AQMS",
+        "latitude": 28.25838,
+        "longitude": 83.968964,
+        "elevation": 978,
+        "description": "AQMS at GBS PKR",
+        "images": [
+            {
+                "id": 10,
+                "name": "a67f6c3c0687f6266c26932fb064d566",
+                "description": "",
+                "size": 219604,
+                "type": 0
+            },
+            {
+                "id": 11,
+                "name": "d090da30f4eeb0f7990378b121224467",
+                "description": "",
+                "size": 224159,
+                "type": 0
+            },
+            {
+                "id": 12,
+                "name": "06a53e577dcf55bc18ee12c26153b447",
+                "description": "",
+                "size": 219520,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 12,
+                "name": "2017",
+                "description": "Stations installed in 2017"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 586,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:39:00+00:00",
+                    "value": 20.5
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 574,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 575,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 576,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 579,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 93.19
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 585,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 578,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 297.1
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 577,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 1.1
+                }
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "गण्डकी  बोर्डिंग  स्कूल, पोखरा"
+    },
+    {
+        "id": 6,
+        "identifier": "LUMBINI",
+        "name": "Lumbini",
+        "folder_name": "AQMS",
+        "latitude": 27.50359,
+        "longitude": 83.282186,
+        "elevation": 97,
+        "description": "AQMS Station at Lumbini",
+        "images": [
+            {
+                "id": 114,
+                "name": "5a856d097d2d6ed3827e7975a3d28efa",
+                "description": "",
+                "size": 236059,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 157,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 134,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 137,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 140,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 145,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 156,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 144,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 143,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "लुम्बिनी"
+    },
+    {
+        "id": 20,
+        "identifier": "Nepalgunj",
+        "name": "Nepalgunj",
+        "folder_name": "AQMS",
+        "latitude": 28.05275,
+        "longitude": 81.6222,
+        "elevation": 151,
+        "description": "Nepalgunj",
+        "images": [
+            {
+                "id": 2,
+                "name": "6d3e4c61f7c2bb67bd6336f4ed5bd58b",
+                "description": "",
+                "size": 362462,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 13,
+                "name": "2018",
+                "description": "Stations installed in 2018"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 666,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 26.2
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 654,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 16.2,
+                    "aqi": 13.50000063575
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 655,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 14
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 656,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 14.89,
+                    "aqi": 37.249999046250004
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 659,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 84.8
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 665,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 17
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 658,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 344.79
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 657,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:37:00+00:00",
+                    "value": 0.5
+                }
+            }
+        ],
+        "AQI": 37.249999046250004,
+        "AQIcolor": "#00e400",
+        "nepali_name": "नेपालगन्ज"
+    },
+    {
+        "id": 13,
+        "identifier": "Pokhara University, PKR",
+        "name": "PU Pkr",
+        "folder_name": "AQMS",
+        "latitude": 28.143373,
+        "longitude": 84.085547,
+        "elevation": 664,
+        "description": "AQMS at PU, PKR",
+        "images": [
+            {
+                "id": 13,
+                "name": "c497b6813d72b43f8a8059d08dcf7940",
+                "description": "",
+                "size": 232045,
+                "type": 0
+            },
+            {
+                "id": 14,
+                "name": "feb6139a68fbeb1859f0d895d894b8d3",
+                "description": "",
+                "size": 145804,
+                "type": 0
+            },
+            {
+                "id": 16,
+                "name": "727fa944331869b237f28f966153b4de",
+                "description": "",
+                "size": 239375,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 12,
+                "name": "2017",
+                "description": "Stations installed in 2017"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 563,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 551,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 552,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 553,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 556,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 562,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 555,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 554,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "पीयू/पोखरा विश्वविद्यालय"
+    },
+    {
+        "id": 3,
+        "identifier": "Ratnapark, Kathmandu",
+        "name": "Ratnapark",
+        "folder_name": "AQMS",
+        "latitude": 27.707014,
+        "longitude": 85.31541,
+        "elevation": 1317,
+        "description": "AQMS at Ratnapark, Kathmandu",
+        "images": [
+            {
+                "id": 17,
+                "name": "774d2b1637f312536f743aa374172f75",
+                "description": "",
+                "size": 263700,
+                "type": 0
+            },
+            {
+                "id": 18,
+                "name": "2b9a56e67ce457e4717ecddff22d136f",
+                "description": "",
+                "size": 130420,
+                "type": 0
+            },
+            {
+                "id": 20,
+                "name": "f18163ccd2417d84e3d41325fb766737",
+                "description": "",
+                "size": 335285,
+                "type": 0
+            },
+            {
+                "id": 33,
+                "name": "969e54e61ff92b1d260514cbb734d204",
+                "description": "",
+                "size": 174035,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "DOE",
+                "description": "Sites installed by Department of Environment"
+            },
+            {
+                "id": 3,
+                "name": "KTM",
+                "description": "All Stations inside Kathmandu City"
+            },
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 25,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 3,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:40:00+00:00",
+                    "value": 65.69,
+                    "aqi": 55.58096578400333
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 5,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 4,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:40:00+00:00",
+                    "value": 37,
+                    "aqi": 92.61306532663318
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 40,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 41,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 237,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 12,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": 92.61306532663318,
+        "AQIcolor": "#ffff00",
+        "nepali_name": "रत्नपार्क"
+    },
+    {
+        "id": 10,
+        "identifier": "AQMS",
+        "name": "Shankapark",
+        "folder_name": "AQMS",
+        "latitude": 27.732825,
+        "longitude": 85.342826,
+        "elevation": 1339,
+        "description": "AQMS at Shankha Park",
+        "images": [
+            {
+                "id": 78,
+                "name": "5484e2f261bcc1ac8c63330c65f93069",
+                "description": "",
+                "size": 3532316,
+                "type": 0
+            },
+            {
+                "id": 79,
+                "name": "b52fa25dcbea90a0e3d847176ccbc8b2",
+                "description": "",
+                "size": 5727510,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 3,
+                "name": "KTM",
+                "description": "All Stations inside Kathmandu City"
+            },
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 12,
+                "name": "2017",
+                "description": "Stations installed in 2017"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 336,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": 22.29
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 546,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": 56.59,
+                    "aqi": 47.166665395083335
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 544,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:38:00+00:00",
+                    "value": 31.1
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 542,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 38.09,
+                    "aqi": 95.3216042829598
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 330,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 75.4
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 545,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 104.4
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 329,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 33.5
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 328,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 0.5
+                }
+            }
+        ],
+        "AQI": 95.3216042829598,
+        "AQIcolor": "#ffff00",
+        "nepali_name": "संख पार्क"
+    },
+    {
+        "id": 7,
+        "identifier": "CHT",
+        "name": "Sauraha",
+        "folder_name": "AQMS",
+        "latitude": 27.573483,
+        "longitude": 84.498578,
+        "elevation": 195,
+        "description": "AQMS Station at Lumbini\t",
+        "images": [
+            {
+                "id": 115,
+                "name": "dc8ebe7bebb179464da05285b292eb34",
+                "description": "",
+                "size": 236035,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 212,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 189,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 192,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 195,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 200,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 211,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 199,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 198,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "सौराहा"
+    },
+    {
+        "id": 22,
+        "identifier": "Simara",
+        "name": "Simara",
+        "folder_name": "AQMS",
+        "latitude": 27.156708,
+        "longitude": 84.997761,
+        "elevation": 128,
+        "description": "Simara",
+        "images": [
+            {
+                "id": 6,
+                "name": "6d6bf55aec2a710ac3ef48dd6bb0752c",
+                "description": "",
+                "size": 303415,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 13,
+                "name": "2018",
+                "description": "Stations installed in 2018"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 632,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:34:00+00:00",
+                    "value": 29.2
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 621,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 780,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 622,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 625,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:34:00+00:00",
+                    "value": 69.09
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 631,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 624,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:34:00+00:00",
+                    "value": 21.7
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 623,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:34:00+00:00",
+                    "value": 1.39
+                }
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "सिमरा"
+    },
+    {
+        "id": 11,
+        "identifier": "DHM Pokhara",
+        "name": "DHM, Pkr",
+        "folder_name": "AQMS",
+        "latitude": 28.205549,
+        "longitude": 83.97368,
+        "elevation": 823,
+        "description": "AQMS At DHM office PKR",
+        "images": [
+            {
+                "id": 3,
+                "name": "74e31e9bcb016a8434b8dabf04202cf5",
+                "description": "",
+                "size": 250092,
+                "type": 0
+            },
+            {
+                "id": 4,
+                "name": "4c56c9584728bad2859a021634cf5356",
+                "description": "",
+                "size": 255438,
+                "type": 0
+            },
+            {
+                "id": 5,
+                "name": "d3e51158ffc9cd60e34d32d0c7326afb",
+                "description": "",
+                "size": 152059,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 12,
+                "name": "2017",
+                "description": "Stations installed in 2017"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 609,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 20.89
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 597,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 12.5,
+                    "aqi": 10.416666666666668
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 598,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 11.5
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 599,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 12.1,
+                    "aqi": 30.250000953749996
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 602,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 96.69
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 608,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 12.5
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 601,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 335.29
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 600,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 0.4
+                }
+            }
+        ],
+        "AQI": 30.250000953749996,
+        "AQIcolor": "#00e400",
+        "nepali_name": " पोखरा"
+    },
+    {
+        "id": 58,
+        "identifier": "Damak,Jhapa",
+        "name": "Damak",
+        "folder_name": "AQMS",
+        "latitude": 26.669363,
+        "longitude": 87.703262,
+        "elevation": 136,
+        "description": "Damak,Jhapa",
+        "images": [
+            {
+                "id": 43,
+                "name": "63f3e7b4d8d92281a8a7f12260753005",
+                "description": "",
+                "size": 243104,
+                "type": 0
+            },
+            {
+                "id": 44,
+                "name": "19be0ace21ba9f0e990c12a5cadef446",
+                "description": "",
+                "size": 249751,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 10,
+                "name": "2019",
+                "description": "Stations installed in 2019"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1555,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1545,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1546,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1547,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 1550,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1554,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 1549,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1548,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "दमक"
+    },
+    {
+        "id": 68,
+        "identifier": "JANAKPUR_AQMS",
+        "name": "Janakpur",
+        "folder_name": "AQMS",
+        "latitude": 26.739805,
+        "longitude": 85.92854,
+        "elevation": 76,
+        "description": "AQMS at Madhesh Province office of chief minister and council of ministers",
+        "images": [
+            {
+                "id": 84,
+                "name": "1ef3a8fd3a35cd46808bb85b02371b38",
+                "description": "",
+                "size": 600120,
+                "type": 0
+            },
+            {
+                "id": 85,
+                "name": "6d2b69ff0d15948da36e4c21c63869c4",
+                "description": "",
+                "size": 226205,
+                "type": 0
+            },
+            {
+                "id": 86,
+                "name": "c478e3289b3a60130fb654d30c13a7eb",
+                "description": "",
+                "size": 156555,
+                "type": 0
+            },
+            {
+                "id": 87,
+                "name": "1a810ecf447c6e71bbd211133db0ffb0",
+                "description": "",
+                "size": 89645,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 9,
+                "name": "2020",
+                "description": "AQMS Sites installed in 2020"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1630,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1649,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1650,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1648,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 1631,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1651,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 1634,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1633,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "जनकपुर"
+    },
+    {
+        "id": 71,
+        "identifier": "DHANGADHI_AQMS",
+        "name": "Dhangadhi",
+        "folder_name": "AQMS",
+        "latitude": 28.704133,
+        "longitude": 80.5945,
+        "elevation": 178,
+        "description": "AQMS at Dhangadhi Sub-Metropolitan Office",
+        "images": [
+            {
+                "id": 104,
+                "name": "37512af9edefedd431984c84c11aaaf2",
+                "description": "",
+                "size": 244870,
+                "type": 0
+            },
+            {
+                "id": 105,
+                "name": "ee8b602ab1b33402708aea9906a75707",
+                "description": "",
+                "size": 206835,
+                "type": 0
+            },
+            {
+                "id": 106,
+                "name": "8cf438eddf85cf5659aa911748232bd0",
+                "description": "",
+                "size": 179417,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 9,
+                "name": "2020",
+                "description": "AQMS Sites installed in 2020"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1711,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1729,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1731,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1730,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 1712,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1732,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 1715,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1714,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "धनगढी "
+    },
+    {
+        "id": 69,
+        "identifier": "HETAUDA_AQMS",
+        "name": "Hetauda",
+        "folder_name": "AQMS",
+        "latitude": 27.4226747,
+        "longitude": 85.0344161,
+        "elevation": 458,
+        "description": "AQMS at Hetauda Sub-metropolitan Office",
+        "images": [
+            {
+                "id": 88,
+                "name": "27ace861dc7ad29d96da35e027773348",
+                "description": "",
+                "size": 364351,
+                "type": 0
+            },
+            {
+                "id": 89,
+                "name": "9932ac7fed979bf689ef9b4c5cd92e4a",
+                "description": "",
+                "size": 190588,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 9,
+                "name": "2020",
+                "description": "AQMS Sites installed in 2020"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1658,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1675,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1677,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1676,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 1657,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1678,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 1661,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1660,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "हेटौडा"
+    },
+    {
+        "id": 72,
+        "identifier": "BHIMDATTA_AQMS",
+        "name": "Bhimdatta (Mahendranagar)",
+        "folder_name": "AQMS",
+        "latitude": 28.965051,
+        "longitude": 80.182925,
+        "elevation": 217,
+        "description": "AQMS at Bhimdatta Municipality Office",
+        "images": [
+            {
+                "id": 92,
+                "name": "c33c20fdf9f7c14e6a17266533419b36",
+                "description": "",
+                "size": 253916,
+                "type": 0
+            },
+            {
+                "id": 93,
+                "name": "454fcfc96f2707a2e53709fb65136442",
+                "description": "",
+                "size": 59244,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 9,
+                "name": "2020",
+                "description": "AQMS Sites installed in 2020"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1739,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 27.6
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1756,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 49.59,
+                    "aqi": 41.33333206175
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1758,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 27.39
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1757,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 33,
+                    "aqi": 82.76381909547739
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 1738,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 72.3
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1759,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:42:00+00:00",
+                    "value": 99.09
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 1742,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 0
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1741,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:35:00+00:00",
+                    "value": 0
+                }
+            }
+        ],
+        "AQI": 82.76381909547739,
+        "AQIcolor": "#ffff00",
+        "nepali_name": "भीमदत्त"
+    },
+    {
+        "id": 67,
+        "identifier": "BIRATNAGAR_AQMS",
+        "name": "Biratnagar",
+        "folder_name": "AQMS",
+        "latitude": 26.4450921,
+        "longitude": 87.2750912,
+        "elevation": 71,
+        "description": "AQMS at Mahendra Morang Campus",
+        "images": [
+            {
+                "id": 98,
+                "name": "a13a99f5b25937221d2dfc29619bff08",
+                "description": "",
+                "size": 1652700,
+                "type": 0
+            },
+            {
+                "id": 99,
+                "name": "0dd6e827a542d16925990e6baf8b2891",
+                "description": "",
+                "size": 2643277,
+                "type": 0
+            },
+            {
+                "id": 100,
+                "name": "f353060c24e3b1b08362dd0428a514a2",
+                "description": "",
+                "size": 2692481,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 9,
+                "name": "2020",
+                "description": "AQMS Sites installed in 2020"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1606,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1621,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1623,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1622,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 1607,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1624,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 1610,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1609,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "बिराटनगर"
+    },
+    {
+        "id": 21,
+        "identifier": "Jhumka, Sunsari",
+        "name": "Jhumka",
+        "folder_name": "AQMS",
+        "latitude": 26.664451,
+        "longitude": 87.195171,
+        "elevation": 100,
+        "description": "Jhumka, Sunsari",
+        "images": [
+            {
+                "id": 40,
+                "name": "62e583cfafa28c16f1a756c0530dd78e",
+                "description": "",
+                "size": 101368,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 13,
+                "name": "2018",
+                "description": "Stations installed in 2018"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 697,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 679,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 680,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 681,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 685,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 696,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 683,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 682,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "झुम्का"
+    },
+    {
+        "id": 59,
+        "identifier": "Surkhet",
+        "name": "Surkhet",
+        "folder_name": "AQMS",
+        "latitude": 28.602925,
+        "longitude": 81.621024,
+        "elevation": 729,
+        "description": "AQMS at Karnali Province Police Office",
+        "images": [
+            {
+                "id": 77,
+                "name": "03a4b9469b32484c2ec2187a22871b96",
+                "description": "",
+                "size": 240092,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 10,
+                "name": "2019",
+                "description": "Stations installed in 2019"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1583,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:23:00+00:00",
+                    "value": 21.1
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1573,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1574,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1575,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 1578,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:23:00+00:00",
+                    "value": 89.3
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1582,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 1577,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:23:00+00:00",
+                    "value": 46.9
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1576,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:23:00+00:00",
+                    "value": 0.5
+                }
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "सुर्खेत"
+    },
+    {
+        "id": 73,
+        "identifier": "RARA_AQMS",
+        "name": "Rara",
+        "folder_name": "AQMS",
+        "latitude": 29.508301,
+        "longitude": 82.093788,
+        "elevation": 3121,
+        "description": "AQMS at Rara Lake",
+        "images": [
+            {
+                "id": 94,
+                "name": "25778d8e30a44c6b5b5bd80c5f6315d6",
+                "description": "",
+                "size": 57992,
+                "type": 0
+            },
+            {
+                "id": 95,
+                "name": "357b4c515fc4dddfab315af428c744d9",
+                "description": "",
+                "size": 227240,
+                "type": 0
+            },
+            {
+                "id": 97,
+                "name": "2b18c8aae0dc1e73fc850be9a12d98de",
+                "description": "",
+                "size": 209638,
+                "type": 0
+            },
+            {
+                "id": 110,
+                "name": "6bea64d208eeddf58a55becfbdc786ef",
+                "description": "",
+                "size": 131205,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 9,
+                "name": "2020",
+                "description": "AQMS Sites installed in 2020"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1769,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 8.19
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1783,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 8.89,
+                    "aqi": 7.416666348775
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1785,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 7.8
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1784,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 8.39,
+                    "aqi": 20.999999046325
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 1770,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 91.69
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1786,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 8.89
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 1773,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 218.3
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1772,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:44:00+00:00",
+                    "value": 1.1
+                }
+            }
+        ],
+        "AQI": 20.999999046325,
+        "AQIcolor": "#00e400",
+        "nepali_name": "रारा "
+    },
+    {
+        "id": 5,
+        "identifier": "PULCHOWK_KTM",
+        "name": "Pulchowk",
+        "folder_name": "AQMS",
+        "latitude": 27.682581,
+        "longitude": 85.318841,
+        "elevation": 1305,
+        "description": "AQS at Lalitpur",
+        "images": [
+            {
+                "id": 23,
+                "name": "62c164ef06a203bbeaae4eb976b36712",
+                "description": "",
+                "size": 1891128,
+                "type": 0
+            },
+            {
+                "id": 24,
+                "name": "3a3bccdd3ddd62c0a45f9bc18d09ff52",
+                "description": "",
+                "size": 2327593,
+                "type": 0
+            },
+            {
+                "id": 25,
+                "name": "ccea9badcc371bb592b95199bd4a148a",
+                "description": "",
+                "size": 1912147,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 3,
+                "name": "KTM",
+                "description": "All Stations inside Kathmandu City"
+            },
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 11,
+                "name": "2016",
+                "description": "Stations installed in 2016"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 115,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 92,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:39:00+00:00",
+                    "value": 22.29,
+                    "aqi": 18.583332697583334
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 95,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:39:00+00:00",
+                    "value": 20.7
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 98,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:39:00+00:00",
+                    "value": 21.39,
+                    "aqi": 54.201004085753766
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 103,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 114,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:39:00+00:00",
+                    "value": 36.2
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 102,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 101,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": 54.201004085753766,
+        "AQIcolor": "#ffff00",
+        "nepali_name": "पुल्चोक"
+    },
+    {
+        "id": 15,
+        "identifier": "Tribhuvan University, KTM",
+        "name": "TU Kirtipur",
+        "folder_name": "AQMS",
+        "latitude": 27.681719,
+        "longitude": 85.289313,
+        "elevation": 1314,
+        "description": "AQMS at TU, KTM",
+        "images": [
+            {
+                "id": 28,
+                "name": "f2b4b43c70f4a23a388acabdc7e2efc8",
+                "description": "",
+                "size": 3164245,
+                "type": 0
+            },
+            {
+                "id": 29,
+                "name": "44ee9a36128c18800cc786090ee806e5",
+                "description": "",
+                "size": 2695556,
+                "type": 0
+            },
+            {
+                "id": 30,
+                "name": "c3f3d5188c3c53b4add56b75437d6f1b",
+                "description": "",
+                "size": 2342498,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 490,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 478,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 479,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 480,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": null
+            },
+            {
+                "unit": "%",
+                "series_id": 483,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 489,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 482,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": null
+            },
+            {
+                "unit": "m/s",
+                "series_id": 481,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": null
+            }
+        ],
+        "AQI": "-",
+        "AQIcolor": "#ffffff",
+        "nepali_name": "त्र.वि.वि"
+    },
+    {
+        "id": 14,
+        "identifier": "Birendra School, KTM",
+        "name": "Bhaktapur ",
+        "folder_name": "AQMS",
+        "latitude": 27.673762,
+        "longitude": 85.417528,
+        "elevation": 1327,
+        "description": "AQMS at Birendra School,KTM",
+        "images": [
+            {
+                "id": 113,
+                "name": "652c3011eaabd797a90995be4461a3b2",
+                "description": "",
+                "size": 4583454,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 12,
+                "name": "2017",
+                "description": "Stations installed in 2017"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 513,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 21.79
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 501,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 51.4,
+                    "aqi": 42.83333460491667
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 502,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": null
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 503,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 34.79,
+                    "aqi": 87.195978021
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 506,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 81.9
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 512,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 505,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 199.39
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 504,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:43:00+00:00",
+                    "value": 0.89
+                }
+            }
+        ],
+        "AQI": 87.195978021,
+        "AQIcolor": "#ffff00",
+        "nepali_name": "भक्तपुर"
+    },
+    {
+        "id": 70,
+        "identifier": "BHARATPUR_AQMS",
+        "name": "Bharatpur",
+        "folder_name": "AQMS",
+        "latitude": 27.672503,
+        "longitude": 84.438393,
+        "elevation": 213,
+        "description": "AQMS at DAO office",
+        "images": [
+            {
+                "id": 101,
+                "name": "84a255d5f1d4fae067fa349f31f12420",
+                "description": "",
+                "size": 232667,
+                "type": 0
+            },
+            {
+                "id": 102,
+                "name": "e297aec7158dc5612cd741f49a465006",
+                "description": "",
+                "size": 183029,
+                "type": 0
+            },
+            {
+                "id": 103,
+                "name": "b5e6f2ccec9625052d861fbb5af09a9d",
+                "description": "",
+                "size": 215393,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            },
+            {
+                "id": 9,
+                "name": "2020",
+                "description": "AQMS Sites installed in 2020"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 1685,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 29.6
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1702,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 169.8,
+                    "aqi": 119.18745444023898
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1704,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 25.79
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1703,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 42.9,
+                    "aqi": 107.89447611905025
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 1686,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 63
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 1705,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 185.8
+                }
+            },
+            {
+                "unit": "°",
+                "series_id": 1689,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 54.9
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 1688,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T14:47:00+00:00",
+                    "value": 0.5
+                }
+            }
+        ],
+        "AQI": 119.18745444023898,
+        "AQIcolor": "#ff7e00",
+        "nepali_name": "भरतपुर"
+    },
+    {
+        "id": 140,
+        "identifier": "10000140",
+        "name": "Khumaltar",
+        "folder_name": "AQMS",
+        "latitude": 27.64665,
+        "longitude": 85.3234,
+        "elevation": null,
+        "description": "ICIMOD AQMS",
+        "images": [
+            {
+                "id": 111,
+                "name": "442bf08fe1561f437f635fa46ea46c5c",
+                "description": "",
+                "size": 5070676,
+                "type": 0
+            }
+        ],
+        "tags": [
+            {
+                "id": 7,
+                "name": "AQMS",
+                "description": "Air Quality Monitoring Station"
+            }
+        ],
+        "observations": [
+            {
+                "unit": "°C",
+                "series_id": 2451,
+                "parameter_name": "Air Temperature Inst",
+                "parameter_code": "T",
+                "series_name": "Air Temperature Inst",
+                "data": {
+                    "datetime": "2024-05-11T03:17:00+00:00",
+                    "value": 22.39
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 2480,
+                "parameter_name": "PM10 Inst",
+                "parameter_code": "PM10_I",
+                "series_name": "PM10 Inst",
+                "data": {
+                    "datetime": "2024-05-11T03:17:00+00:00",
+                    "value": 80,
+                    "aqi": 67.2787979966611
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 2481,
+                "parameter_name": "PM1 Instantenous",
+                "parameter_code": "PM1_I",
+                "series_name": "PM1 Instantenous",
+                "data": {
+                    "datetime": "2024-05-11T03:17:00+00:00",
+                    "value": 35.1
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 2482,
+                "parameter_name": "PM2.5 Inst",
+                "parameter_code": "PM2.5_I",
+                "series_name": "PM2.5 Inst",
+                "data": {
+                    "datetime": "2024-05-11T03:17:00+00:00",
+                    "value": 41.4,
+                    "aqi": 104.20100878236684
+                }
+            },
+            {
+                "unit": "%",
+                "series_id": 2485,
+                "parameter_name": "Relative Humidity Inst",
+                "parameter_code": "RH_I",
+                "series_name": "Relative Humidity Inst",
+                "data": {
+                    "datetime": "2024-05-11T03:17:00+00:00",
+                    "value": 67.69
+                }
+            },
+            {
+                "unit": "µg/m³",
+                "series_id": 2491,
+                "parameter_name": "Total Suspended Particulate Inst",
+                "parameter_code": "TSP_I",
+                "series_name": "Total Suspended Particulate Inst",
+                "data": null
+            },
+            {
+                "unit": "°",
+                "series_id": 2492,
+                "parameter_name": "Wind direction Inst",
+                "parameter_code": "WD_I",
+                "series_name": "Wind direction Inst",
+                "data": {
+                    "datetime": "2024-05-11T03:17:00+00:00",
+                    "value": 69.19
+                }
+            },
+            {
+                "unit": "m/s",
+                "series_id": 2493,
+                "parameter_name": "Wind Speed Inst",
+                "parameter_code": "WS_I",
+                "series_name": "Wind Speed Inst",
+                "data": {
+                    "datetime": "2024-05-11T03:17:00+00:00",
+                    "value": 2
+                }
+            }
+        ],
+        "AQI": 104.20100878236684,
+        "AQIcolor": "#ff7e00",
+        "nepali_name": ""
+    }
+]
