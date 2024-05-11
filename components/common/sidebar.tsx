@@ -13,6 +13,7 @@ import HomeIcon from '../icons/homeIcon';
 import HorizontalLogo from '../icons/logos/horizontalLogo';
 import TablesIcon from '../icons/tablesIcon';
 import UserIcon from '../icons/userIcon';
+import EducationIcon from '../icons/educationIcon'
 
 
 export default function Sidebar() {
@@ -68,6 +69,11 @@ const sidebarMenu = [
     icon: <HealthIcon />,
     label: 'Health',
     href: '/health',
+  },
+  {
+    icon: <EducationIcon/>,
+    label: 'Education',
+    href: '/education',
   },
 ];
 
