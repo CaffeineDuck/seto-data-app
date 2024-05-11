@@ -8,6 +8,7 @@ import AiChatIcon from '../icons/aiChatIcon';
 import CensusIcon from '../icons/censusIcon';
 import DashboardIcon from '../icons/dashboardIcon';
 import FinanceIcon from '../icons/financeIcon';
+import HealthIcon from '../icons/healthIcon';
 import HomeIcon from '../icons/homeIcon';
 import HorizontalLogo from '../icons/logos/horizontalLogo';
 import PollutionIcon from '../icons/pollutionIcon';
@@ -67,6 +68,11 @@ const sidebarMenu = [
     icon: <TablesIcon />,
     label: 'Trade',
     href: '/trade',
+  },
+  {
+    icon: <HealthIcon />,
+    label: 'Health',
+    href: '/health',
   },
   {
     icon: <PollutionIcon />,
