@@ -2,6 +2,10 @@
   @tailwind components;
   @tailwind utilities;
 
+  .ant-btn, .ant-menu, .ant-table, .ant-modal-body {
+  font-family: 'DM Sans', sans-serif !important;
+}
+
   @layer base {
     :root {
       --background: 0 0% 100%;

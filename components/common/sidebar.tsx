@@ -4,12 +4,16 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
 
+
+
 import AiChatIcon from '../icons/aiChatIcon';
+import FinanceIcon from '../icons/financeIcon';
+import HealthIcon from '../icons/healthIcon';
 import HomeIcon from '../icons/homeIcon';
 import HorizontalLogo from '../icons/logos/horizontalLogo';
 import TablesIcon from '../icons/tablesIcon';
 import UserIcon from '../icons/userIcon';
-import FinanceIcon from '../icons/financeIcon';
+
 
 export default function Sidebar() {
   const pathname = usePathname();
@@ -59,6 +63,11 @@ const sidebarMenu = [
     icon: <TablesIcon />,
     label: 'Trade',
     href: '/trade',
+  },
+  {
+    icon: <HealthIcon />,
+    label: 'Health',
+    href: '/health',
   },
 ];
 
